@@ -21,4 +21,9 @@ A lightweight Node.js-based simulation of a decentralized exchange that allows u
 ---
 
 ## 📁 Project Structure
+/Dex
+├── src/
+│ └── index.js # Express server and DEX logic
+├── package.json
+└── README.md
 
